@@ -38,4 +38,7 @@ added to the button in the index html file as well.*/
  table, th, td {
   border: 1px solid black;
 }
-#table_titles {background-color: rgb(52, 114, 206); }
+#table_titles {
+  background-color: rgb(52, 114, 206); 
+  color:white;
+}

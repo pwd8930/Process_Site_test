@@ -35,4 +35,6 @@ added to the button in the index html file as well.*/
  Write your css customizations below
  *********************************************/
 
- 
+ table, th, td {
+  border: 1px solid black;
+}

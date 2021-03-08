@@ -53,6 +53,6 @@ added to the button in the index html file as well.*/
 
 .ag_columns{
   width: 40%;
-  display:inline;
+  display:inline-block;
 }
 

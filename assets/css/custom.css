@@ -51,7 +51,7 @@ added to the button in the index html file as well.*/
   font-weight: bold;
 }
 
-.a_g_image{ display:inline}
+#a_g_image{ display:inline}
 
 .ag_columns{
   width: "400em";

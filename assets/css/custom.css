@@ -54,6 +54,6 @@ added to the button in the index html file as well.*/
 
 .ag_columns{
   width: "400em";
-  display:inline-flex;
+  display:inline-table;
   margin: "50em";
 }

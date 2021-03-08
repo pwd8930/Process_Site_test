@@ -56,5 +56,5 @@ added to the button in the index html file as well.*/
 .ag_columns{
   width: "500em";
   display:inline-flex;
-  padding: "400em";
+  margin-left:"200em";
 }

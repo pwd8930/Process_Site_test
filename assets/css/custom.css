@@ -53,8 +53,8 @@ added to the button in the index html file as well.*/
 
 .a_g_image{ display:inline}
 
-/* .ag_columns{
+.ag_columns{
   width: 40%;
   display:inline-block;
-  padding: "300em";
-}  */
+  padding: "200em";
+}

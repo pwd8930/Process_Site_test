@@ -51,9 +51,10 @@ added to the button in the index html file as well.*/
   font-weight: bold;
 }
 
-.ag_columns{
-  width: "400em";
-  display:inline-block;
-  margin-left: "5em";
+.ag_row{
+  display: flex;
+}
 
+.ag_columns{
+  flex: 50%;
 }
